@@ -1,5 +1,3 @@
-package org.max.home.spoon;
-
 import com.github.tomakehurst.wiremock.WireMockServer;
 import org.apache.http.HttpResponse;
 import org.junit.jupiter.api.AfterAll;
