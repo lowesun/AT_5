@@ -1,5 +1,3 @@
-package org.max.home.spoon;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
