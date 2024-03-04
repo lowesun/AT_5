@@ -1,4 +1,3 @@
-package org.max.home.accu;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.HttpResponse;
