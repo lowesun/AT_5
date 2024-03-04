@@ -1,4 +1,4 @@
-package org.max.home.accu;
+package org.max.home.spoon;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
 import org.apache.http.HttpResponse;
